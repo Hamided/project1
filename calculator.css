@@ -11,9 +11,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    
-
-}
+    background-image: url(https://images.pexels.com/photos/19457037/pexels-photo-19457037/free-photo-of-ciudad-punto-de-referencia-calle-edificio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   }
 
 .calculator {
     background-color: rgb(122, 122, 214);
@@ -92,3 +95,4 @@ body {
 #delete:hover{
     background-color: rgb(14, 155, 110);
 }
+
